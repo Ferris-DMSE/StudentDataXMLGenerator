@@ -1,0 +1,3569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <ID>100001</ID>
+    <FirstName>MARLON</FirstName>
+    <LastName>SCHNEIDER</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>MUSI-222</ID>
+        <Name>Music you don't care about because we need a class in music</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>PSYC-395</ID>
+        <Name>Intro to Psychology, where everyone is some sort of crazy</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>MFGE-637</ID>
+        <Name>Manufacturing and Engineering</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>FILM-200</ID>
+        <Name>Introduction to Many Moving Still Pictures</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>PHYS-558</ID>
+        <Name>General Physics 1</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>MUSI-386</ID>
+        <Name>Music you don't care about because we need a class in music</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>RELG-922</ID>
+        <Name>Comparative Religions</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>HISH-525</ID>
+        <Name>HISH???</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>PHYS-217</ID>
+        <Name>General Physics 1</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>FILM-679</ID>
+        <Name>Introduction to Many Moving Still Pictures</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>CHEM-113</ID>
+        <Name>All We Eat Is Chemicals, A Guide To Knowing That Chemicals Are Alright</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100002</ID>
+    <FirstName>DOMINGO</FirstName>
+    <LastName>HARPER</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>ECON-318</ID>
+        <Name>Principles of MicroEconomics</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>LITH-860</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>SOCY-847</ID>
+        <Name>Sociology, why it isn't a made up science</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>RELG-851</ID>
+        <Name>Comparative Religions</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>PHIL-934</ID>
+        <Name>Arguements you can't win, A philosophy Introduction.</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>ARTS-274</ID>
+        <Name>Art History</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>SPAN-735</ID>
+        <Name>Why Spanish isn't the end of the world</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>FREN-656</ID>
+        <Name>French, the language of romance</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>ANHH-997</ID>
+        <Name>Intro Physical Anthropology</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100003</ID>
+    <FirstName>EDDIE</FirstName>
+    <LastName>STAPLETON</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>RELG-932</ID>
+        <Name>Comparative Religions</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>CHEM-514</ID>
+        <Name>All We Eat Is Chemicals, A Guide To Knowing That Chemicals Are Alright</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100004</ID>
+    <FirstName>PENNY</FirstName>
+    <LastName>JOHNS</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>MKTG-799</ID>
+        <Name>Human Knowledge of Marketing</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>PLSC-838</ID>
+        <Name>WTF is PLSC?</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>FILM-705</ID>
+        <Name>Introduction to Many Moving Still Pictures</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>SPAN-187</ID>
+        <Name>Why Spanish isn't the end of the world</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>HUMN-369</ID>
+        <Name>Human Services</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>FREN-864</ID>
+        <Name>French, the language of romance</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>HVAC-823</ID>
+        <Name>How to make your homes cold and hot</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100005</ID>
+    <FirstName>MARTIN</FirstName>
+    <LastName>URIBE</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>SOCY-166</ID>
+        <Name>Sociology, why it isn't a made up science</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-231</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>MKTG-864</ID>
+        <Name>Human Knowledge of Marketing</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-352</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>HUMN-750</ID>
+        <Name>Human Services</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>HVAC-364</ID>
+        <Name>How to make your homes cold and hot</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>SPAN-874</ID>
+        <Name>Why Spanish isn't the end of the world</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>HUMH-853</ID>
+        <Name>Human Sciences</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>PHYS-279</ID>
+        <Name>General Physics 1</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>LITH-216</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>HUMH-443</ID>
+        <Name>Human Sciences</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>LITH-311</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100006</ID>
+    <FirstName>NATASHA</FirstName>
+    <LastName>GILLIS</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>ANHH-380</ID>
+        <Name>Intro Physical Anthropology</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>PSYC-774</ID>
+        <Name>Intro to Psychology, where everyone is some sort of crazy</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>FREN-682</ID>
+        <Name>French, the language of romance</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>MKTG-200</ID>
+        <Name>Human Knowledge of Marketing</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>BIOL-314</ID>
+        <Name>Science of the Human Body</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>MFGE-454</ID>
+        <Name>Manufacturing and Engineering</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>CHEM-327</ID>
+        <Name>All We Eat Is Chemicals, A Guide To Knowing That Chemicals Are Alright</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>W</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100007</ID>
+    <FirstName>LIDIA</FirstName>
+    <LastName>WOMACK</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>RELG-648</ID>
+        <Name>Comparative Religions</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>LITH-583</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>FILM-804</ID>
+        <Name>Introduction to Many Moving Still Pictures</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>PLSC-684</ID>
+        <Name>WTF is PLSC?</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>LITH-212</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-758</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>MKTG-869</ID>
+        <Name>Human Knowledge of Marketing</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>GEOG-465</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100008</ID>
+    <FirstName>JOE</FirstName>
+    <LastName>COUCH</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>GERM-543</ID>
+        <Name>DEUTSCHLAND!</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>PSYC-655</ID>
+        <Name>Intro to Psychology, where everyone is some sort of crazy</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>HUMN-211</ID>
+        <Name>Human Services</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100009</ID>
+    <FirstName>LORAINE</FirstName>
+    <LastName>JACOBSON</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>CHEM-889</ID>
+        <Name>All We Eat Is Chemicals, A Guide To Knowing That Chemicals Are Alright</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>PSYC-242</ID>
+        <Name>Intro to Psychology, where everyone is some sort of crazy</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>PSYC-934</ID>
+        <Name>Intro to Psychology, where everyone is some sort of crazy</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>LITH-366</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>GEOG-575</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>SSCI-517</ID>
+        <Name>SUPER FUN CLASS TIME</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>MUSI-983</ID>
+        <Name>Music you don't care about because we need a class in music</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>HISH-842</ID>
+        <Name>HISH???</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>MFGE-622</ID>
+        <Name>Manufacturing and Engineering</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>HUMH-402</ID>
+        <Name>Human Sciences</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>FILM-390</ID>
+        <Name>Introduction to Many Moving Still Pictures</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>MFGE-240</ID>
+        <Name>Manufacturing and Engineering</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>SSCI-768</ID>
+        <Name>SUPER FUN CLASS TIME</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>CHEM-674</ID>
+        <Name>All We Eat Is Chemicals, A Guide To Knowing That Chemicals Are Alright</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100010</ID>
+    <FirstName>COURTNEY</FirstName>
+    <LastName>LARSON</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>LANG-623</ID>
+        <Name>English and how it's overly complicated</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>PHIL-191</ID>
+        <Name>Arguements you can't win, A philosophy Introduction.</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-822</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>HISH-437</ID>
+        <Name>HISH???</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>LANG-736</ID>
+        <Name>English and how it's overly complicated</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>GEOG-899</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>GERM-321</ID>
+        <Name>DEUTSCHLAND!</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>ECON-990</ID>
+        <Name>Principles of MicroEconomics</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>SSCI-953</ID>
+        <Name>SUPER FUN CLASS TIME</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100011</ID>
+    <FirstName>ODELL</FirstName>
+    <LastName>WHITE</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>FREN-626</ID>
+        <Name>French, the language of romance</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>GEOG-118</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>CHEM-648</ID>
+        <Name>All We Eat Is Chemicals, A Guide To Knowing That Chemicals Are Alright</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>FILM-995</ID>
+        <Name>Introduction to Many Moving Still Pictures</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>HIST-664</ID>
+        <Name>History of Science and Racism</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100012</ID>
+    <FirstName>ERNESTINE</FirstName>
+    <LastName>SOLOMON</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>RELG-190</ID>
+        <Name>Comparative Religions</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>HISH-691</ID>
+        <Name>HISH???</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>HUMN-655</ID>
+        <Name>Human Services</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>SPAN-656</ID>
+        <Name>Why Spanish isn't the end of the world</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID> PHOT-945</ID>
+        <Name>Some Kind of Error, An Introduction</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>LITR-158</ID>
+        <Name>Who Likes Literature? This guy!</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>PLSC-302</ID>
+        <Name>WTF is PLSC?</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100013</ID>
+    <FirstName>PAT</FirstName>
+    <LastName>SEARS</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>HUMN-894</ID>
+        <Name>Human Services</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>BIOL-892</ID>
+        <Name>Science of the Human Body</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>HUMH-171</ID>
+        <Name>Human Sciences</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>MFGE-660</ID>
+        <Name>Manufacturing and Engineering</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>FREN-263</ID>
+        <Name>French, the language of romance</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>MKTG-610</ID>
+        <Name>Human Knowledge of Marketing</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100014</ID>
+    <FirstName>ROCKY</FirstName>
+    <LastName>REDMOND</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>ARTS-440</ID>
+        <Name>Art History</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>GERM-665</ID>
+        <Name>DEUTSCHLAND!</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>HUMH-832</ID>
+        <Name>Human Sciences</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>SOCY-303</ID>
+        <Name>Sociology, why it isn't a made up science</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>FREN-412</ID>
+        <Name>French, the language of romance</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100015</ID>
+    <FirstName>DENNIS</FirstName>
+    <LastName>ROSAS</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>LANG-617</ID>
+        <Name>English and how it's overly complicated</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>CHEM-856</ID>
+        <Name>All We Eat Is Chemicals, A Guide To Knowing That Chemicals Are Alright</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>GEOG-125</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>LANG-425</ID>
+        <Name>English and how it's overly complicated</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>THTR-260</ID>
+        <Name>Why THESPIAN isn't a bad word</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>FREN-908</ID>
+        <Name>French, the language of romance</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>SPAN-369</ID>
+        <Name>Why Spanish isn't the end of the world</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>HISH-877</ID>
+        <Name>HISH???</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>HISH-987</ID>
+        <Name>HISH???</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>W</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100016</ID>
+    <FirstName>MALCOLM</FirstName>
+    <LastName>KANE</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>SPAN-283</ID>
+        <Name>Why Spanish isn't the end of the world</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>LITR-796</ID>
+        <Name>Who Likes Literature? This guy!</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>RELG-295</ID>
+        <Name>Comparative Religions</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-394</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>PLSC-114</ID>
+        <Name>WTF is PLSC?</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>GEOG-993</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>MUSI-323</ID>
+        <Name>Music you don't care about because we need a class in music</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>MFGE-568</ID>
+        <Name>Manufacturing and Engineering</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>PLSC-299</ID>
+        <Name>WTF is PLSC?</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID> PHOT-984</ID>
+        <Name>Some Kind of Error, An Introduction</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>ECON-382</ID>
+        <Name>Principles of MicroEconomics</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>ANHH-481</ID>
+        <Name>Intro Physical Anthropology</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>SSCI-780</ID>
+        <Name>SUPER FUN CLASS TIME</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100017</ID>
+    <FirstName>MINA</FirstName>
+    <LastName>JACOBSON</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>WGST-462</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>SPAN-416</ID>
+        <Name>Why Spanish isn't the end of the world</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>GEOG-250</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>MKTG-826</ID>
+        <Name>Human Knowledge of Marketing</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100018</ID>
+    <FirstName>ROLANDO</FirstName>
+    <LastName>SLATER</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>HISH-969</ID>
+        <Name>HISH???</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>SPAN-815</ID>
+        <Name>Why Spanish isn't the end of the world</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>FREN-125</ID>
+        <Name>French, the language of romance</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>ANHH-652</ID>
+        <Name>Intro Physical Anthropology</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>PHYS-893</ID>
+        <Name>General Physics 1</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>HVAC-672</ID>
+        <Name>How to make your homes cold and hot</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>ARCH-396</ID>
+        <Name>Intro to Archaeology</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>LITH-480</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>LANG-708</ID>
+        <Name>English and how it's overly complicated</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-452</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>RELG-522</ID>
+        <Name>Comparative Religions</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>HUMN-127</ID>
+        <Name>Human Services</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>RELG-829</ID>
+        <Name>Comparative Religions</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100019</ID>
+    <FirstName>ROSCOE</FirstName>
+    <LastName>HATHAWAY</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>MKTG-878</ID>
+        <Name>Human Knowledge of Marketing</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>MKTG-698</ID>
+        <Name>Human Knowledge of Marketing</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>ARTS-633</ID>
+        <Name>Art History</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>HUMN-451</ID>
+        <Name>Human Services</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>PSYC-242</ID>
+        <Name>Intro to Psychology, where everyone is some sort of crazy</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>MUSI-257</ID>
+        <Name>Music you don't care about because we need a class in music</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>ARCH-248</ID>
+        <Name>Intro to Archaeology</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>LITR-209</ID>
+        <Name>Who Likes Literature? This guy!</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>ARCH-628</ID>
+        <Name>Intro to Archaeology</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>ARTS-804</ID>
+        <Name>Art History</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>RELG-329</ID>
+        <Name>Comparative Religions</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>E</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100020</ID>
+    <FirstName>RENEE</FirstName>
+    <LastName>LAM</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>HVAC-764</ID>
+        <Name>How to make your homes cold and hot</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>LITH-569</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100021</ID>
+    <FirstName>SASHA</FirstName>
+    <LastName>STANLEY</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>THTR-996</ID>
+        <Name>Why THESPIAN isn't a bad word</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>BIOL-617</ID>
+        <Name>Science of the Human Body</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>LITH-753</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>ANHH-792</ID>
+        <Name>Intro Physical Anthropology</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>LITR-563</ID>
+        <Name>Who Likes Literature? This guy!</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>CHEM-785</ID>
+        <Name>All We Eat Is Chemicals, A Guide To Knowing That Chemicals Are Alright</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>SOCY-365</ID>
+        <Name>Sociology, why it isn't a made up science</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>GEOG-582</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>SSCI-781</ID>
+        <Name>SUPER FUN CLASS TIME</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>SOCY-275</ID>
+        <Name>Sociology, why it isn't a made up science</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-937</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>MFGE-460</ID>
+        <Name>Manufacturing and Engineering</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>GERM-686</ID>
+        <Name>DEUTSCHLAND!</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100022</ID>
+    <FirstName>ENRIQUE</FirstName>
+    <LastName>LUCERO</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>ANHH-865</ID>
+        <Name>Intro Physical Anthropology</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>HUMN-557</ID>
+        <Name>Human Services</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>FILM-494</ID>
+        <Name>Introduction to Many Moving Still Pictures</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>ARTS-426</ID>
+        <Name>Art History</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>BIOL-490</ID>
+        <Name>Science of the Human Body</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>HUMN-574</ID>
+        <Name>Human Services</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>GERM-190</ID>
+        <Name>DEUTSCHLAND!</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>ARCH-623</ID>
+        <Name>Intro to Archaeology</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>HVAC-211</ID>
+        <Name>How to make your homes cold and hot</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>ARCH-157</ID>
+        <Name>Intro to Archaeology</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>SSCI-779</ID>
+        <Name>SUPER FUN CLASS TIME</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100023</ID>
+    <FirstName>KATHY</FirstName>
+    <LastName>OSORIO</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>HVAC-467</ID>
+        <Name>How to make your homes cold and hot</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>ARTS-861</ID>
+        <Name>Art History</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>LANG-887</ID>
+        <Name>English and how it's overly complicated</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>HIST-145</ID>
+        <Name>History of Science and Racism</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>HUMH-460</ID>
+        <Name>Human Sciences</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>BIOL-309</ID>
+        <Name>Science of the Human Body</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>HUMN-361</ID>
+        <Name>Human Services</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>GEOG-580</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>PHIL-570</ID>
+        <Name>Arguements you can't win, A philosophy Introduction.</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>HVAC-904</ID>
+        <Name>How to make your homes cold and hot</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>THTR-323</ID>
+        <Name>Why THESPIAN isn't a bad word</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>LITH-159</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100024</ID>
+    <FirstName>NONA</FirstName>
+    <LastName>TOMLINSON</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>WGST-418</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>ECON-288</ID>
+        <Name>Principles of MicroEconomics</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100025</ID>
+    <FirstName>MILLIE</FirstName>
+    <LastName>SCHULTZ</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>ECON-255</ID>
+        <Name>Principles of MicroEconomics</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>FILM-723</ID>
+        <Name>Introduction to Many Moving Still Pictures</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>SOCY-177</ID>
+        <Name>Sociology, why it isn't a made up science</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>PSYC-408</ID>
+        <Name>Intro to Psychology, where everyone is some sort of crazy</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>PLSC-653</ID>
+        <Name>WTF is PLSC?</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>LANG-578</ID>
+        <Name>English and how it's overly complicated</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>SPAN-125</ID>
+        <Name>Why Spanish isn't the end of the world</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>HUMH-304</ID>
+        <Name>Human Sciences</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>BIOL-756</ID>
+        <Name>Science of the Human Body</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>GEOG-581</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>GERM-781</ID>
+        <Name>DEUTSCHLAND!</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100026</ID>
+    <FirstName>MARYELLEN</FirstName>
+    <LastName>VELA</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>THTR-193</ID>
+        <Name>Why THESPIAN isn't a bad word</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>FREN-634</ID>
+        <Name>French, the language of romance</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>PSYC-131</ID>
+        <Name>Intro to Psychology, where everyone is some sort of crazy</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>ANHH-862</ID>
+        <Name>Intro Physical Anthropology</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>ANHH-280</ID>
+        <Name>Intro Physical Anthropology</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>CHEM-495</ID>
+        <Name>All We Eat Is Chemicals, A Guide To Knowing That Chemicals Are Alright</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>CHEM-313</ID>
+        <Name>All We Eat Is Chemicals, A Guide To Knowing That Chemicals Are Alright</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>MKTG-127</ID>
+        <Name>Human Knowledge of Marketing</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID> PHOT-946</ID>
+        <Name>Some Kind of Error, An Introduction</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>MKTG-722</ID>
+        <Name>Human Knowledge of Marketing</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100027</ID>
+    <FirstName>NEAL</FirstName>
+    <LastName>CHANEY</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>HIST-481</ID>
+        <Name>History of Science and Racism</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>PLSC-145</ID>
+        <Name>WTF is PLSC?</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100028</ID>
+    <FirstName>CRUZ</FirstName>
+    <LastName>RUCKER</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>MUSI-212</ID>
+        <Name>Music you don't care about because we need a class in music</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>ECON-541</ID>
+        <Name>Principles of MicroEconomics</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>A</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100029</ID>
+    <FirstName>ROBYN</FirstName>
+    <LastName>LEDFORD</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>THTR-807</ID>
+        <Name>Why THESPIAN isn't a bad word</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>GERM-547</ID>
+        <Name>DEUTSCHLAND!</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>HISH-772</ID>
+        <Name>HISH???</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100030</ID>
+    <FirstName>GRETA</FirstName>
+    <LastName>WESLEY</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>HUMN-944</ID>
+        <Name>Human Services</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-732</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>ARCH-790</ID>
+        <Name>Intro to Archaeology</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>GERM-296</ID>
+        <Name>DEUTSCHLAND!</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID> PHOT-830</ID>
+        <Name>Some Kind of Error, An Introduction</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>LITH-705</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100031</ID>
+    <FirstName>CANDACE</FirstName>
+    <LastName>HALL</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>GEOG-657</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>ARCH-260</ID>
+        <Name>Intro to Archaeology</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>PHIL-662</ID>
+        <Name>Arguements you can't win, A philosophy Introduction.</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>SSCI-316</ID>
+        <Name>SUPER FUN CLASS TIME</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>FREN-617</ID>
+        <Name>French, the language of romance</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>MUSI-631</ID>
+        <Name>Music you don't care about because we need a class in music</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>FREN-636</ID>
+        <Name>French, the language of romance</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID> PHOT-724</ID>
+        <Name>Some Kind of Error, An Introduction</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>ARTS-883</ID>
+        <Name>Art History</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID> PHOT-351</ID>
+        <Name>Some Kind of Error, An Introduction</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100032</ID>
+    <FirstName>AVIS</FirstName>
+    <LastName>PEARSON</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>GERM-940</ID>
+        <Name>DEUTSCHLAND!</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>ECON-571</ID>
+        <Name>Principles of MicroEconomics</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>SOCY-516</ID>
+        <Name>Sociology, why it isn't a made up science</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>SOCY-483</ID>
+        <Name>Sociology, why it isn't a made up science</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>HISH-524</ID>
+        <Name>HISH???</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>GERM-185</ID>
+        <Name>DEUTSCHLAND!</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID> PHOT-528</ID>
+        <Name>Some Kind of Error, An Introduction</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>PLSC-580</ID>
+        <Name>WTF is PLSC?</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>RELG-567</ID>
+        <Name>Comparative Religions</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100033</ID>
+    <FirstName>EDDIE</FirstName>
+    <LastName>YU</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>CHEM-222</ID>
+        <Name>All We Eat Is Chemicals, A Guide To Knowing That Chemicals Are Alright</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>BIOL-507</ID>
+        <Name>Science of the Human Body</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>LANG-235</ID>
+        <Name>English and how it's overly complicated</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>MKTG-103</ID>
+        <Name>Human Knowledge of Marketing</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>GEOG-501</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100034</ID>
+    <FirstName>CHUCK</FirstName>
+    <LastName>NORTON</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>ECON-272</ID>
+        <Name>Principles of MicroEconomics</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>HISH-819</ID>
+        <Name>HISH???</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>ECON-789</ID>
+        <Name>Principles of MicroEconomics</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>PLSC-948</ID>
+        <Name>WTF is PLSC?</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>GEOG-570</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>PHYS-197</ID>
+        <Name>General Physics 1</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>LITH-453</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>FREN-275</ID>
+        <Name>French, the language of romance</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>FREN-230</ID>
+        <Name>French, the language of romance</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>SPAN-965</ID>
+        <Name>Why Spanish isn't the end of the world</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>GERM-918</ID>
+        <Name>DEUTSCHLAND!</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>MKTG-128</ID>
+        <Name>Human Knowledge of Marketing</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>E</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100035</ID>
+    <FirstName>RAUL</FirstName>
+    <LastName>MITCHELL</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>MFGE-536</ID>
+        <Name>Manufacturing and Engineering</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>ANHH-695</ID>
+        <Name>Intro Physical Anthropology</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>HUMN-744</ID>
+        <Name>Human Services</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>HIST-948</ID>
+        <Name>History of Science and Racism</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>LITH-213</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID> PHOT-122</ID>
+        <Name>Some Kind of Error, An Introduction</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>MFGE-598</ID>
+        <Name>Manufacturing and Engineering</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-270</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>PLSC-105</ID>
+        <Name>WTF is PLSC?</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>HUMN-177</ID>
+        <Name>Human Services</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>PLSC-471</ID>
+        <Name>WTF is PLSC?</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>THTR-437</ID>
+        <Name>Why THESPIAN isn't a bad word</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>SPAN-961</ID>
+        <Name>Why Spanish isn't the end of the world</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100036</ID>
+    <FirstName>RENE</FirstName>
+    <LastName>HOLBROOK</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>SSCI-850</ID>
+        <Name>SUPER FUN CLASS TIME</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>MKTG-702</ID>
+        <Name>Human Knowledge of Marketing</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>GEOG-853</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>LANG-408</ID>
+        <Name>English and how it's overly complicated</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>PHIL-705</ID>
+        <Name>Arguements you can't win, A philosophy Introduction.</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100037</ID>
+    <FirstName>JOAQUIN</FirstName>
+    <LastName>COYLE</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>GEOG-125</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>HUMN-283</ID>
+        <Name>Human Services</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>THTR-178</ID>
+        <Name>Why THESPIAN isn't a bad word</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>THTR-767</ID>
+        <Name>Why THESPIAN isn't a bad word</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-407</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>ANHH-521</ID>
+        <Name>Intro Physical Anthropology</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>PLSC-596</ID>
+        <Name>WTF is PLSC?</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>LITR-771</ID>
+        <Name>Who Likes Literature? This guy!</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>LITR-766</ID>
+        <Name>Who Likes Literature? This guy!</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100038</ID>
+    <FirstName>DIANNE</FirstName>
+    <LastName>BRAVO</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>LITR-105</ID>
+        <Name>Who Likes Literature? This guy!</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>SPAN-365</ID>
+        <Name>Why Spanish isn't the end of the world</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>FILM-685</ID>
+        <Name>Introduction to Many Moving Still Pictures</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>ECON-301</ID>
+        <Name>Principles of MicroEconomics</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>SOCY-924</ID>
+        <Name>Sociology, why it isn't a made up science</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>D</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100039</ID>
+    <FirstName>MARIE</FirstName>
+    <LastName>CASTLE</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>HISH-348</ID>
+        <Name>HISH???</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>LANG-419</ID>
+        <Name>English and how it's overly complicated</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>BIOL-189</ID>
+        <Name>Science of the Human Body</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>CHEM-414</ID>
+        <Name>All We Eat Is Chemicals, A Guide To Knowing That Chemicals Are Alright</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>HUMH-706</ID>
+        <Name>Human Sciences</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>PHYS-494</ID>
+        <Name>General Physics 1</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100040</ID>
+    <FirstName>SAMMY</FirstName>
+    <LastName>WESTBROOK</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>GERM-187</ID>
+        <Name>DEUTSCHLAND!</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>HVAC-656</ID>
+        <Name>How to make your homes cold and hot</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>ECON-213</ID>
+        <Name>Principles of MicroEconomics</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>MFGE-825</ID>
+        <Name>Manufacturing and Engineering</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>GERM-626</ID>
+        <Name>DEUTSCHLAND!</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID> PHOT-968</ID>
+        <Name>Some Kind of Error, An Introduction</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>ARTS-316</ID>
+        <Name>Art History</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>MFGE-856</ID>
+        <Name>Manufacturing and Engineering</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>PLSC-980</ID>
+        <Name>WTF is PLSC?</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID> PHOT-998</ID>
+        <Name>Some Kind of Error, An Introduction</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>ANHH-470</ID>
+        <Name>Intro Physical Anthropology</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>MUSI-605</ID>
+        <Name>Music you don't care about because we need a class in music</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>MFGE-828</ID>
+        <Name>Manufacturing and Engineering</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>ECON-683</ID>
+        <Name>Principles of MicroEconomics</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100041</ID>
+    <FirstName>MONIKA</FirstName>
+    <LastName>DAY</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>GEOG-288</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>HUMH-329</ID>
+        <Name>Human Sciences</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>CHEM-605</ID>
+        <Name>All We Eat Is Chemicals, A Guide To Knowing That Chemicals Are Alright</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>PHYS-542</ID>
+        <Name>General Physics 1</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>MFGE-929</ID>
+        <Name>Manufacturing and Engineering</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>GERM-673</ID>
+        <Name>DEUTSCHLAND!</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>HUMN-967</ID>
+        <Name>Human Services</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>HUMN-169</ID>
+        <Name>Human Services</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>SOCY-143</ID>
+        <Name>Sociology, why it isn't a made up science</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>LITR-281</ID>
+        <Name>Who Likes Literature? This guy!</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>ECON-863</ID>
+        <Name>Principles of MicroEconomics</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>LITR-283</ID>
+        <Name>Who Likes Literature? This guy!</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>E</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100042</ID>
+    <FirstName>ARTHUR</FirstName>
+    <LastName>MUNOZ</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>LITH-535</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>PHYS-528</ID>
+        <Name>General Physics 1</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>HISH-654</ID>
+        <Name>HISH???</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>HIST-821</ID>
+        <Name>History of Science and Racism</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>RELG-776</ID>
+        <Name>Comparative Religions</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>D</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100043</ID>
+    <FirstName>ROLAND</FirstName>
+    <LastName>POSEY</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>HIST-567</ID>
+        <Name>History of Science and Racism</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>FILM-738</ID>
+        <Name>Introduction to Many Moving Still Pictures</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID> PHOT-154</ID>
+        <Name>Some Kind of Error, An Introduction</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>BIOL-292</ID>
+        <Name>Science of the Human Body</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>FILM-806</ID>
+        <Name>Introduction to Many Moving Still Pictures</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-810</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>GEOG-768</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-915</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>SOCY-839</ID>
+        <Name>Sociology, why it isn't a made up science</Name>
+        <Credits>1</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>MKTG-185</ID>
+        <Name>Human Knowledge of Marketing</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>PLSC-645</ID>
+        <Name>WTF is PLSC?</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID> PHOT-871</ID>
+        <Name>Some Kind of Error, An Introduction</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>ECON-339</ID>
+        <Name>Principles of MicroEconomics</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-982</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100044</ID>
+    <FirstName>LORENE</FirstName>
+    <LastName>MOODY</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>LANG-768</ID>
+        <Name>English and how it's overly complicated</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>MKTG-840</ID>
+        <Name>Human Knowledge of Marketing</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100045</ID>
+    <FirstName>CAROLINA</FirstName>
+    <LastName>JOSEPH</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>WGST-341</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID> PHOT-821</ID>
+        <Name>Some Kind of Error, An Introduction</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>GEOG-512</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>D</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100046</ID>
+    <FirstName>MERLIN</FirstName>
+    <LastName>GROSSMAN</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>MKTG-442</ID>
+        <Name>Human Knowledge of Marketing</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>BIOL-226</ID>
+        <Name>Science of the Human Body</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>GEOG-180</ID>
+        <Name>Intro to Rock Studies</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>MUSI-263</ID>
+        <Name>Music you don't care about because we need a class in music</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>CHEM-733</ID>
+        <Name>All We Eat Is Chemicals, A Guide To Knowing That Chemicals Are Alright</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>SOCY-278</ID>
+        <Name>Sociology, why it isn't a made up science</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>MUSI-553</ID>
+        <Name>Music you don't care about because we need a class in music</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100047</ID>
+    <FirstName>JORGE</FirstName>
+    <LastName>WELLS</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>LITH-156</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>D</Grade>
+      </Course>
+      <Course>
+        <ID>HUMH-732</ID>
+        <Name>Human Sciences</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>SSCI-129</ID>
+        <Name>SUPER FUN CLASS TIME</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>ARCH-726</ID>
+        <Name>Intro to Archaeology</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>LITR-359</ID>
+        <Name>Who Likes Literature? This guy!</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-916</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>LITR-979</ID>
+        <Name>Who Likes Literature? This guy!</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>LANG-152</ID>
+        <Name>English and how it's overly complicated</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-750</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>LITR-674</ID>
+        <Name>Who Likes Literature? This guy!</Name>
+        <Credits>0</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>HIST-936</ID>
+        <Name>History of Science and Racism</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>PLSC-825</ID>
+        <Name>WTF is PLSC?</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>HISH-461</ID>
+        <Name>HISH???</Name>
+        <Credits>1</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>PSYC-484</ID>
+        <Name>Intro to Psychology, where everyone is some sort of crazy</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>D</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100048</ID>
+    <FirstName>DEANA</FirstName>
+    <LastName>CONNORS</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>LITH-507</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>HISH-453</ID>
+        <Name>HISH???</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>PSYC-870</ID>
+        <Name>Intro to Psychology, where everyone is some sort of crazy</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>HVAC-878</ID>
+        <Name>How to make your homes cold and hot</Name>
+        <Credits>4</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>HIST-391</ID>
+        <Name>History of Science and Racism</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-212</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>MUSI-338</ID>
+        <Name>Music you don't care about because we need a class in music</Name>
+        <Credits>3</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>ANHH-457</ID>
+        <Name>Intro Physical Anthropology</Name>
+        <Credits>3</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>LITH-333</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>RELG-767</ID>
+        <Name>Comparative Religions</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+      <Course>
+        <ID>FILM-845</ID>
+        <Name>Introduction to Many Moving Still Pictures</Name>
+        <Credits>1</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>MUSI-272</ID>
+        <Name>Music you don't care about because we need a class in music</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>W</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100049</ID>
+    <FirstName>ANNIE</FirstName>
+    <LastName>NAVARRO</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>ANHH-907</ID>
+        <Name>Intro Physical Anthropology</Name>
+        <Credits>2</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>ECON-836</ID>
+        <Name>Principles of MicroEconomics</Name>
+        <Credits>3</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>BIOL-981</ID>
+        <Name>Science of the Human Body</Name>
+        <Credits>5</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>ARTS-725</ID>
+        <Name>Art History</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>C</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+  <Student>
+    <ID>100050</ID>
+    <FirstName>CORRINE</FirstName>
+    <LastName>MASON</LastName>
+    <CoursesRegistered>
+      <Course>
+        <ID>THTR-827</ID>
+        <Name>Why THESPIAN isn't a bad word</Name>
+        <Credits>5</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>W</Grade>
+      </Course>
+      <Course>
+        <ID>PSYC-656</ID>
+        <Name>Intro to Psychology, where everyone is some sort of crazy</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>LITH-533</ID>
+        <Name>How to read too far into an authors words</Name>
+        <Credits>2</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>HISH-590</ID>
+        <Name>HISH???</Name>
+        <Credits>5</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>RELG-788</ID>
+        <Name>Comparative Religions</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>WGST-132</ID>
+        <Name>WHAT IS WGST?</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Elective</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>HISH-322</ID>
+        <Name>HISH???</Name>
+        <Credits>4</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>I</Grade>
+      </Course>
+      <Course>
+        <ID>PHYS-197</ID>
+        <Name>General Physics 1</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>C</Grade>
+      </Course>
+      <Course>
+        <ID>HUMH-643</ID>
+        <Name>Human Sciences</Name>
+        <Credits>4</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>E</Grade>
+      </Course>
+      <Course>
+        <ID>CHEM-112</ID>
+        <Name>All We Eat Is Chemicals, A Guide To Knowing That Chemicals Are Alright</Name>
+        <Credits>2</Credits>
+        <Semester>Fall</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>PSYC-457</ID>
+        <Name>Intro to Psychology, where everyone is some sort of crazy</Name>
+        <Credits>0</Credits>
+        <Semester>Summer</Semester>
+        <CourseType>Core</CourseType>
+        <Grade>A</Grade>
+      </Course>
+      <Course>
+        <ID>HISH-467</ID>
+        <Name>HISH???</Name>
+        <Credits>0</Credits>
+        <Semester>Spring</Semester>
+        <CourseType>General Education</CourseType>
+        <Grade>B</Grade>
+      </Course>
+    </CoursesRegistered>
+  </Student>
+</ArrayOfStudent>
