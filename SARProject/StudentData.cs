@@ -26,9 +26,9 @@ namespace StudentDataXMLGenerator
             TextWriter writer = null;
             try
             {
-                var serializer = new XmlSerializer( StudentDirectory.GetType());
+                var serializer = new XmlSerializer(typeof(StudentData));
                 writer = new StreamWriter(FILEPATH, false);
-                serializer.Serialize(writer, StudentDirectory);
+                serializer.Serialize(writer, this);
             }
             catch(Exception ex)
             {
@@ -40,16 +40,16 @@ namespace StudentDataXMLGenerator
             
         }
 
-        public static List<Student> Load()
+        public static StudentData Load()
         {
-            var serializer = new XmlSerializer(typeof(List<Student>));
+            var serializer = new XmlSerializer(typeof(StudentData));
             TextReader reader = null;
             try
             {
                 if (System.IO.File.Exists(FILEPATH))
                 {
                     reader = new StreamReader(FILEPATH, false);
-                    return serializer.Deserialize(reader) as List<Student>;
+                    return serializer.Deserialize(reader) as StudentData;
                 }
                 return null;
 

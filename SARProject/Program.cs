@@ -19,12 +19,12 @@ namespace StudentDataXMLGenerator
 
 
             //If file exists, and everything loads correctly...
-            List<Student> studentData = StudentData.Load();
+            StudentData studentData = StudentData.Load();
 
             if (studentData != null)
             {
                 Console.WriteLine("Student Data Loaded. \n");
-                foreach (var item in studentData)
+                foreach (var item in studentData.StudentDirectory)
                 {
                     Console.WriteLine(item.FirstName + ", " + item.LastName);
                 }
@@ -41,7 +41,7 @@ namespace StudentDataXMLGenerator
             string userInput = Console.ReadLine().ToUpper();
                         
             
-            var query = from s in studentData
+            var query = from s in studentData.StudentDirectory
                         where s.FirstName == userInput || s.LastName == userInput
                         select s;
 
@@ -61,7 +61,7 @@ namespace StudentDataXMLGenerator
 
         }
 
-        private static List<Student> generateStudentData(Random r)
+        private static StudentData generateStudentData(Random r)
         {
             List<Student> studentData = new List<Student>();
             for (int i = 0; i < 50; i++)
@@ -81,7 +81,7 @@ namespace StudentDataXMLGenerator
             StudentData sd = new StudentData();
             sd.StudentDirectory = studentData;
             sd.Save();
-            return studentData;
+            return sd;
         }
     }
 }
