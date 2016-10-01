@@ -14,12 +14,41 @@ namespace StudentDataXMLGenerator
     {
         static void Main(string[] args)
         {
-
+            //Random object needed to help generate random values in the generator.
             Random randomObj = new Random();
+            //Student Data object for the program.
+            StudentData studentData;
+
+
+            Console.WriteLine("Welcome to the Student Data XML Generator.");
+            Console.WriteLine();
+            Console.WriteLine("To generate a new Student Data XML file, please enter the number 1.\n" +
+                "To view the last generated Student Data XML file, please enter the number 2.\n" +
+                "To exit the application, please enter the letter q or spell out quit.");
+            Console.Write("Enter value here: ");
+            string userInput = Console.ReadLine();
+
+
+            if (userInput == "1")
+            {
+                //Generate new Student Data XML File
+            }
+            else if (userInput == "2")
+            {
+                //Load up and display last known xml file
+                //Make sure to handle if there is no file but the user still selected this option.
+            }
+            else if (userInput.ToUpper() == "Q" || userInput.ToUpper() == "QUIT")
+            {
+                return; //exits the main method and quits the application.
+            }
+
+
+
 
 
             //If file exists, and everything loads correctly...
-            StudentData studentData = StudentData.Load();
+            studentData = StudentData.Load();
 
             if (studentData != null)
             {
@@ -37,27 +66,31 @@ namespace StudentDataXMLGenerator
                 Console.WriteLine("Students generated and exported to xml file.");
             }
 
-            Console.WriteLine("Input a name to search for.");
-            string userInput = Console.ReadLine().ToUpper();
+
+
+        //    //Old query information I'm not ready to delete yet.
+
+        //    Console.WriteLine("Input a name to search for.");
+        //    string userInput = Console.ReadLine().ToUpper();
                         
             
-            var query = from s in studentData.StudentDirectory
-                        where s.FirstName == userInput || s.LastName == userInput
-                        select s;
+        //    var query = from s in studentData.StudentDirectory
+        //                where s.FirstName == userInput || s.LastName == userInput
+        //                select s;
 
-            if (query.Count() == 0)
-                Console.WriteLine("Nothing Found");
+        //    if (query.Count() == 0)
+        //        Console.WriteLine("Nothing Found");
 
-            foreach (Student student in query)
-            {
-                Console.WriteLine();//newline
-                Console.WriteLine(student.FirstName + ", " + student.LastName);
-                foreach (Course course in student.CoursesRegistered)
-                {
-                    Console.WriteLine(course.ToString());
-                }
-            }
-            Console.ReadKey();
+        //    foreach (Student student in query)
+        //    {
+        //        Console.WriteLine();//newline
+        //        Console.WriteLine(student.FirstName + ", " + student.LastName);
+        //        foreach (Course course in student.CoursesRegistered)
+        //        {
+        //            Console.WriteLine(course.ToString());
+        //        }
+        //    }
+        //    Console.ReadKey();
 
         }
 
