@@ -37,6 +37,17 @@ namespace StudentDataXMLGenerator
             {
                 //Load up and display last known xml file
                 //Make sure to handle if there is no file but the user still selected this option.
+                if (StudentData.FileExists)
+                {
+                    studentData = StudentData.Load();
+                }
+                else
+                {
+                    Console.WriteLine("There is no previous XML file. Perhaps someone deleted it or this is the first time creating the file?");
+                    Console.WriteLine("Would you like to create a new file now? y = yes, n = no");
+                    Console.Write("(y,n): ");
+                    
+                }
             }
             else if (userInput.ToUpper() == "Q" || userInput.ToUpper() == "QUIT")
             {
