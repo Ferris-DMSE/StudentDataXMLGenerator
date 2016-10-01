@@ -31,6 +31,11 @@ namespace StudentDataXMLGenerator
             }
         }
 
+        public static string RelativePath
+        {
+            get { return FILEPATH; }
+        }
+
         public StudentData() { }
 
         public void Save()

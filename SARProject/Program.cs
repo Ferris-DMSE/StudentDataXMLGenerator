@@ -32,6 +32,9 @@ namespace StudentDataXMLGenerator
             if (userInput == "1")
             {
                 //Generate new Student Data XML File
+                studentData = generateStudentData(randomObj); //Add the ability to pick how many students.
+                Console.WriteLine("Student data has been generated and saved! The file path is: " + Path.GetFullPath(StudentData.RelativePath));
+
             }
             else if (userInput == "2")
             {
