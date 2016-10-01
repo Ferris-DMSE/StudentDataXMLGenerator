@@ -12,7 +12,7 @@ namespace StudentDataXMLGenerator
         enum CourseType { GeneralEducation, Elective, Core }
         enum Semester { Fall, Spring, Summer}
 
-        static string FILEPATH = @"..\..\GenEdID.txt";//@"C:\Users\USER\Dropbox\CSharp\SARProject\RandomCourseGenerator\GenEdID.txt";
+        static string FILEPATH = @"..\..\GenEdID.txt";
         static Random r = new Random();
 
         public static Course GenerateCourse()
