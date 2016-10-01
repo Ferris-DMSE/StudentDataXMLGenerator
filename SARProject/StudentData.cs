@@ -19,6 +19,18 @@ namespace StudentDataXMLGenerator
             set { studentList = value; }
         }
 
+        public bool FileExists
+        {
+            get
+            {
+                if (File.Exists(FILEPATH))
+                {
+                    return true;
+                }
+                return false;
+            }
+        }
+
         public StudentData() { }
 
         public void Save()
