@@ -19,7 +19,7 @@ namespace StudentDataXMLGenerator
             set { studentList = value; }
         }
 
-        public bool FileExists
+        public static bool FileExists
         {
             get
             {
