@@ -34,7 +34,7 @@ namespace StudentDataXMLGenerator
             else
             {
                 studentData = generateStudentData(randomObj);
-                Console.WriteLine("Students saved. ");
+                Console.WriteLine("Students generated and exported to xml file.");
             }
 
             Console.WriteLine("Input a name to search for.");
