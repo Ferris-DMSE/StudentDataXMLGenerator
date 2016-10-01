@@ -19,92 +19,104 @@ namespace StudentDataXMLGenerator
             //Student Data object for the program.
             StudentData studentData;
 
-
+            //Welcome Message
             Console.WriteLine("Welcome to the Student Data XML Generator.");
-            Console.WriteLine();
-            Console.WriteLine("To generate a new Student Data XML file, please enter the number 1.\n" +
-                "To view the last generated Student Data XML file, please enter the number 2.\n" +
-                "To exit the application, please enter the letter q or spell out quit.");
-            Console.Write("Enter value here: ");
-            string userInput = Console.ReadLine();
-
-
-            if (userInput == "1")
+            do
             {
-                //Generate new Student Data XML File
-                studentData = generateStudentData(randomObj); //Add the ability to pick how many students.
-                Console.WriteLine("Student data has been generated and saved! The file path is: " + Path.GetFullPath(StudentData.RelativePath));
+                
+                Console.WriteLine();
+                Console.WriteLine("To generate a new Student Data XML file, please enter the number 1.\n" +
+                    "To view the last generated Student Data XML file, please enter the number 2.\n" +
+                    "To exit the application, please enter the letter q or spell out quit.");
+                Console.Write("Enter value here: ");
+                string userInput = Console.ReadLine();
 
-            }
-            else if (userInput == "2")
-            {
-                //Load up and display last known xml file
-                //Make sure to handle if there is no file but the user still selected this option.
-                if (StudentData.FileExists)
+
+                if (userInput == "1")
                 {
-                    studentData = StudentData.Load();
+                    //Generate new Student Data XML File
+                    studentData = generateStudentData(randomObj); //Add the ability to pick how many students.
+                    Console.WriteLine("Student data has been generated and saved! The file path is: " + Path.GetFullPath(StudentData.RelativePath));
+                    Console.WriteLine("Press any key to exit the application");
+                    Console.ReadKey();
+                    return;
+
                 }
-                else
+                else if (userInput == "2")
                 {
-                    Console.WriteLine("There is no previous XML file. Perhaps someone deleted it or this is the first time creating the file?");
-                    Console.WriteLine("Would you like to create a new file now? y = yes, n = no");
-                    Console.Write("(y,n): ");
-                    
+                    //Load up and display last known xml file
+                    //Make sure to handle if there is no file but the user still selected this option.
+                    if (StudentData.FileExists)
+                    {
+                        studentData = StudentData.Load();
+                        if (studentData != null)
+                        {
+                            foreach (Student stu in studentData.StudentDirectory)
+                            {
+                                Console.WriteLine(stu.FirstName + ", " + stu.LastName);
+                            }
+                            Console.WriteLine("Press any key to exit the application");
+                            Console.ReadKey();
+                            return;
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("There is no previous XML file. Perhaps someone deleted it or this is the first time creating the file?");
+                        Console.WriteLine("Would you like to create a new file now? y = yes, n = no");
+                        Console.Write("(y,n): ");
+                        char userKeypress = Console.ReadKey().KeyChar;
+
+                        switch (userKeypress)
+                        {
+                            case 'y':
+                            case 'Y':
+                                studentData = generateStudentData(randomObj); //Add the ability to pick how many students.
+                                Console.WriteLine("Student data has been generated and saved! The file path is: " + Path.GetFullPath(StudentData.RelativePath));
+                                Console.WriteLine("Press any key to exit the application");
+                                Console.ReadKey();
+                                return;
+                            case 'n':
+                            case 'N':
+                                return;
+                            default:
+                                Console.WriteLine("The key you pressed was not y or n. Restarting application...");
+                                break;
+                        }
+
+                    }
                 }
-            }
-            else if (userInput.ToUpper() == "Q" || userInput.ToUpper() == "QUIT")
-            {
-                return; //exits the main method and quits the application.
-            }
-
-
-
-
-
-            //If file exists, and everything loads correctly...
-            studentData = StudentData.Load();
-
-            if (studentData != null)
-            {
-                Console.WriteLine("Student Data Loaded. \n");
-                foreach (var item in studentData.StudentDirectory)
+                else if (userInput.ToUpper() == "Q" || userInput.ToUpper() == "QUIT")
                 {
-                    Console.WriteLine(item.FirstName + ", " + item.LastName);
+                    return; //exits the main method and quits the application.
                 }
             }
-
-            //Make new everything.
-            else
-            {
-                studentData = generateStudentData(randomObj);
-                Console.WriteLine("Students generated and exported to xml file.");
-            }
+            while (true);
 
 
+            //    //Old query information I'm not ready to delete yet.
 
-        //    //Old query information I'm not ready to delete yet.
+            //    Console.WriteLine("Input a name to search for.");
+            //    string userInput = Console.ReadLine().ToUpper();
 
-        //    Console.WriteLine("Input a name to search for.");
-        //    string userInput = Console.ReadLine().ToUpper();
-                        
-            
-        //    var query = from s in studentData.StudentDirectory
-        //                where s.FirstName == userInput || s.LastName == userInput
-        //                select s;
 
-        //    if (query.Count() == 0)
-        //        Console.WriteLine("Nothing Found");
+            //    var query = from s in studentData.StudentDirectory
+            //                where s.FirstName == userInput || s.LastName == userInput
+            //                select s;
 
-        //    foreach (Student student in query)
-        //    {
-        //        Console.WriteLine();//newline
-        //        Console.WriteLine(student.FirstName + ", " + student.LastName);
-        //        foreach (Course course in student.CoursesRegistered)
-        //        {
-        //            Console.WriteLine(course.ToString());
-        //        }
-        //    }
-        //    Console.ReadKey();
+            //    if (query.Count() == 0)
+            //        Console.WriteLine("Nothing Found");
+
+            //    foreach (Student student in query)
+            //    {
+            //        Console.WriteLine();//newline
+            //        Console.WriteLine(student.FirstName + ", " + student.LastName);
+            //        foreach (Course course in student.CoursesRegistered)
+            //        {
+            //            Console.WriteLine(course.ToString());
+            //        }
+            //    }
+            //    Console.ReadKey();
 
         }
 
