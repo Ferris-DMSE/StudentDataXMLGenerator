@@ -36,8 +36,7 @@ namespace StudentDataXMLGenerator
                 {
                     //Generate new Student Data XML File
                     studentData = generateStudentData(randomObj); //Add the ability to pick how many students.
-                    //Console.WriteLine("Student data has been generated and saved! The file path is: " + Path.GetFullPath(StudentData.RelativePath));
-                    Process.Start(Path.GetFullPath(StudentData.RelativePath));
+                    Process.Start(Path.GetDirectoryName(StudentData.RelativePath));
                     Console.WriteLine("Press any key to exit the application");
                     Console.ReadKey();
                     return;
