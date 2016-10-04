@@ -41,13 +41,13 @@ namespace StudentDataXMLGenerator
 
         public void Save()
         {
-
+            var settings = new XmlWriterSettings { Indent = true };
             try
             {
-                using (FileStream fs = File.Open(FILEPATH, FileMode.Create))
+                using (var writer = XmlWriter.Create(FILEPATH,settings))
                 {
                     var serializer = new DataContractSerializer(typeof(StudentData));
-                    serializer.WriteObject(fs, this);
+                    serializer.WriteObject(writer, this);
                 }
 
             }
