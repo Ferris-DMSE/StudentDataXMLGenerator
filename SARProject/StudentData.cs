@@ -9,11 +9,13 @@ using System.Runtime.Serialization;
 
 namespace StudentDataXMLGenerator
 {
+    [DataContract]
     public class StudentData
     {
         private List<Student> studentList = new List<Student>();
         private const string FILEPATH = "..\\..\\ExampleXMLResults\\studentDataList.xml";
-
+        
+        [DataMember (Order = 0)]
         public List<Student> StudentDirectory
         {
             get { return studentList; }

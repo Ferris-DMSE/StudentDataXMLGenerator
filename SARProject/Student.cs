@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Runtime.Serialization;
 
 namespace StudentDataXMLGenerator
 {
 
     /* 
      * */
+    [DataContract]
     public class Student
     {
         private static int studentIDCount = 100001;
@@ -24,7 +26,7 @@ namespace StudentDataXMLGenerator
             this.firstName = firstName;
             this.lastName = lastName;
             coursesRegistered = new List<Course>();
-            
+
 
         }
 
@@ -40,12 +42,14 @@ namespace StudentDataXMLGenerator
 
         #region Properties
 
+        [DataMember(Order = 2)]
         public int ID
         {
             get { return id; }
             set { id = value; }
         }
 
+        [DataMember(Order = 0)]
         public string FirstName
         {
             get { return firstName; }
@@ -59,6 +63,7 @@ namespace StudentDataXMLGenerator
 
         }
 
+        [DataMember(Order = 1)]
         public string LastName
         {
             get { return lastName; }
@@ -72,6 +77,7 @@ namespace StudentDataXMLGenerator
 
         }
 
+        [DataMember(Order = 3)]
         public List<Course> CoursesRegistered
         {
             get { return coursesRegistered; }
