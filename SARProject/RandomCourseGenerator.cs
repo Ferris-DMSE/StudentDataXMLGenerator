@@ -32,6 +32,8 @@ namespace StudentDataXMLGenerator
 
             course.Semester = generateSemester((Semester)r.Next(3));
 
+            course.Year = r.Next(2000, DateTime.Now.Year + 1);
+
             return course;
         }
 
