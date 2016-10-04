@@ -8,13 +8,18 @@ namespace StudentDataXMLGenerator
 {
     public class Course
     {
+        private static int uniqueID = 1000;
+
         #region Constructors
+
+        
+        public Course() { uniqueID++; }
 
         #endregion
 
         #region Public Properties
 
-        public int UniqueID { get; set; }
+        public int UniqueID { get { return uniqueID; } private set { uniqueID = value; } }
         public string CourseNumber { get; set; }
         public string Name { get; set; }
         public int Credits { get; set; }
