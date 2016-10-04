@@ -20,7 +20,7 @@ namespace StudentDataXMLGenerator
             
             Course course = new Course();
 
-            course.CourseNumber = generateID();
+            course.CourseNumber = generateCourseNumbers();
 
             course.Name = generateCourseName(course.CourseNumber);
 
@@ -204,7 +204,7 @@ namespace StudentDataXMLGenerator
             return courseName;
         }
 
-        public static string generateID()
+        public static string generateCourseNumbers()
         {
             List<string> courseIDs = new List<string>();
 
