@@ -14,7 +14,8 @@ namespace StudentDataXMLGenerator
 
         #region Public Properties
 
-        public string ID { get; set; }
+        public int UniqueID { get; set; }
+        public string CourseNumber { get; set; }
         public string Name { get; set; }
         public int Credits { get; set; }
         public string Semester { get; set; }
@@ -26,7 +27,7 @@ namespace StudentDataXMLGenerator
 
         public override string ToString()
         {
-            return ID + "\n" +
+            return CourseNumber + "\n" +
                 Name + "\n" +
                 Credits.ToString() + "\n" +
                 Semester + "\n" +

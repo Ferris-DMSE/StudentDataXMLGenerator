@@ -20,9 +20,9 @@ namespace StudentDataXMLGenerator
             
             Course course = new Course();
 
-            course.ID = generateID();
+            course.CourseNumber = generateID();
 
-            course.Name = generateCourseName(course.ID);
+            course.Name = generateCourseName(course.CourseNumber);
 
             course.CourseType = generateCourseType((CourseType)r.Next(3));
 
