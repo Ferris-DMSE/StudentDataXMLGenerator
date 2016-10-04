@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Xml.Serialization;
+using System.Xml;
 using System.Runtime.Serialization;
 
 namespace StudentDataXMLGenerator
@@ -41,49 +41,49 @@ namespace StudentDataXMLGenerator
 
         public void Save()
         {
-            TextWriter writer = null;
+
             try
             {
-                var serializer = new XmlSerializer(typeof(StudentData));
-                writer = new StreamWriter(FILEPATH, false);
-                serializer.Serialize(writer, this);
+                using (FileStream fs = File.Open(FILEPATH, FileMode.Create))
+                {
+                    var serializer = new DataContractSerializer(typeof(StudentData));
+                    serializer.WriteObject(fs, this);
+                }
+
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
-            
-                if (writer != null)
-                    writer.Close();
-            
         }
 
         public static StudentData Load()
         {
-            var serializer = new XmlSerializer(typeof(StudentData));
-            TextReader reader = null;
+            StudentData data;
+            var deserializer = new DataContractSerializer(typeof(StudentData));
+
             try
             {
-                if (System.IO.File.Exists(FILEPATH))
+                if (!System.IO.File.Exists(FILEPATH))
                 {
-                    reader = new StreamReader(FILEPATH, false);
-                    return serializer.Deserialize(reader) as StudentData;
+                    return null;
                 }
+
+                using (Stream stream = File.OpenRead(FILEPATH))
+                {
+                    data = (StudentData)deserializer.ReadObject(stream);
+                }
+
+                return data;
+
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
                 return null;
-
             }
-            catch (Exception)
-            {
 
-                throw;
-            }
-            finally
-            {
-                if (reader != null)
-                {
-                    reader.Close();
-                }
-            }        
         }
 
 
