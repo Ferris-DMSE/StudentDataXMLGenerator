@@ -23,6 +23,7 @@ namespace StudentDataXMLGenerator
         public string CourseNumber { get; set; }
         public string Name { get; set; }
         public int Credits { get; set; }
+        public int Year { get; set; }
         public string Semester { get; set; }
         public string CourseType { get; set; }
         public string Grade { get; set; }
